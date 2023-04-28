@@ -1,0 +1,34 @@
+.col-6 {
+    width: fit-content;
+}
+
+.empty {
+    height: 713px;
+}
+
+#image {
+    background-image: url('../images/background.jpg');
+    height: 100vh;
+    background-size: cover;
+}
+
+#container {
+    width: 1230px;
+    margin-left: 680px;
+}
+
+#movie-row {
+    margin-top: 300px;
+}
+
+#plot {
+    margin-top: 90px;
+}
+
+.score {
+    margin-left: 500px;
+}
+
+#watchmore {
+    padding-top: 500px;
+}
